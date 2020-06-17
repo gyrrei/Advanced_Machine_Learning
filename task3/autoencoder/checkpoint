@@ -1,0 +1,2 @@
+model_checkpoint_path: "Conv1D(100,3)-2*64"
+all_model_checkpoint_paths: "Conv1D(100,3)-2*64"
